@@ -60,7 +60,7 @@ The original dataset is provided under the **MIT License**.
 - Validated key KPIs, filters, relationships, grain and double-counting.
 - Tested cross-fact isolation and admission snapshot calculations.
 
-## Dashboard / Final Data Model
+## Final Data Model
 
 ![Final Data Model](images/final_data_model.png)
 
