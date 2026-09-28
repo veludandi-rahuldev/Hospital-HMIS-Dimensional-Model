@@ -27,6 +27,8 @@ The source HMIS data was organized as normalized operational tables. The objecti
 
 The original dataset is provided under the **MIT License**.
 
+> **Note:** This project uses a synthetic HMIS dataset and is intended for demonstration and portfolio purposes only. It does not represent real hospital or patient data.
+
 ## Tools & Technologies
 
 - Power BI
