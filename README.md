@@ -146,4 +146,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://ww
 
 - **Project Report:** `report/hmis_dimensional_modeling_report.pdf`
 - **Power BI Model:** `data_model_file/hospital_hmis_dimensional_model.pbix`
-- **DAX Measures:** `dax/measures.md`
+- **DAX Measures:** `dax/standard_measures.md`
