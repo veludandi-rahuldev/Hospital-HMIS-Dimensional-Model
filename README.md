@@ -32,7 +32,7 @@ The original dataset is provided under the **MIT License**.
 - Power BI
 - Power Query
 - DAX
-- CSV
+- Excel
 - Kimball Dimensional Modeling
 
 ## Project Highlights
@@ -55,7 +55,7 @@ The original dataset is provided under the **MIT License**.
 
 ### Validation
 
-- Independently calculated expected results from the original CSV files.
+- Independently calculated expected results from the original CSV files using Excel.
 - Compared expected results with corresponding Power BI measures and visual outputs.
 - Validated key KPIs, filters, relationships, grain and double-counting.
 - Tested cross-fact isolation and admission snapshot calculations.
@@ -85,7 +85,7 @@ data_model_file/
 images/                   # Model and validation screenshots
 
 workflow/
-└── workflow_roadmap.png
+└── workflow.png
 
 report/
 └── hmis_dimensional_modeling_report.pdf
@@ -126,7 +126,7 @@ Future improvements would extend the model to support historical analysis and ad
 
 ## Author & Contact
 
-**Rahul Dev Valludandhi**
+**Rahuldev Veludandi**
 
 - GitHub: [veludandi-rahuldev](https://github.com/veludandi-rahuldev)
 - LinkedIn: [rahuldev-v](https://www.linkedin.com/in/rahuldev-v)
@@ -134,7 +134,7 @@ Future improvements would extend the model to support historical analysis and ad
 
 ## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**. See the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) for details.
 
 ## Detailed Documentation
 
