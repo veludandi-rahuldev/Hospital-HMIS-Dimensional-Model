@@ -10,6 +10,10 @@ This project transforms 19 raw HMIS source tables into a hybrid dimensional mode
 
 The workflow covered data profiling, Power Query transformation, dimensional modeling, DAX measures, dashboard development, and independent validation against the original source data.
 
+## Project Workflow
+
+![Project Workflow](workflow/workflow.png)
+
 ## Problem Statement
 
 The source HMIS data was organized as normalized operational tables. The objective was to transform it into a reliable analytical model that enables cross-functional hospital reporting while avoiding incorrect relationships, double counting and ambiguous analytical paths.
