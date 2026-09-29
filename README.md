@@ -75,7 +75,7 @@ The Power BI model supports analysis across admissions, clinical activity, billi
 ## How to Run / Explore
 
 1. Clone or download the repository.
-2. Open `data_model_file/hospital_hmis_dimensional_model.pbix` in Power BI Desktop.
+2. Open `power_bi/hospital_hmis_dimensional_model.pbix` in Power BI Desktop.
 3. Review the model relationships and standard DAX measures.
 4. Refer to the project report for the complete modeling decisions and validation process.
 
@@ -85,7 +85,7 @@ The Power BI model supports analysis across admissions, clinical activity, billi
 data/
 └── raw/                  # Source HMIS CSV files
 
-data_model_file/
+power_bi/
 └── hospital_hmis_dimensional_model.pbix
 
 images/                   # Model and validation screenshots
@@ -93,14 +93,14 @@ images/                   # Model and validation screenshots
 workflow/
 └── workflow.png
 
-report/
+docs/
 └── hmis_dimensional_modeling_report.pdf
+└── hmis_data_model_usage_guide.pdf
 
 dax/
 └── measures.md
 
 README.md
-LICENSE
 ```
 
 ## Results & Conclusion
@@ -144,6 +144,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](https://ww
 
 ## Detailed Documentation
 
-- **Project Report:** `report/hmis_dimensional_modeling_report.pdf`
-- **Power BI Model:** `data_model_file/hospital_hmis_dimensional_model.pbix`
+- **Project Report:** `docs/hmis_dimensional_modeling_report.pdf`
+- **Power BI Model:** `power_bi/hospital_hmis_dimensional_model.pbix`
+- **Data Model Usage Guide:** `docs/hmis_data_model_usage_guide`
 - **DAX Measures:** `dax/standard_measures.md`
