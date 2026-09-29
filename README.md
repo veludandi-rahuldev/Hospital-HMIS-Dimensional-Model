@@ -98,7 +98,7 @@ docs/
 └── hmis_data_model_usage_guide.pdf
 
 dax/
-└── measures.md
+└── standard_measures.md
 
 README.md
 ```
