@@ -1,0 +1,26 @@
+# Power BI temporary / backup files
+*.pbit
+*.tmp
+*.bak
+
+# Temporary files
+*.temp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary Excel files
+~$*.xlsx
+~$*.xls
