@@ -43,11 +43,13 @@ The original dataset is provided under the **MIT License**.
 
 ## Project Highlights
 
-### Data Preparation
+### Data Preparation - Profiling & ELT
 
 - Profiled and classified 19 source tables by grain and business role.
+- Extracted & loaded source csv files into Power BI's Power Query.
 - Organized source and analytical Power Query layers.
-- Applied transformations required for dimensional modeling.
+- Performed data quality checks & cleaning in analytical layer
+- Applied transformations required on analytical layer for dimensional modeling.
 
 ### Dimensional Modeling
 
