@@ -68,15 +68,17 @@ The original dataset is provided under the **MIT License**.
 - Validated key KPIs, filters, relationships, grain and double-counting.
 - Tested cross-fact isolation and admission snapshot calculations.
 
+## How to use Data Model
+
+A detailed Data Model Usage Guide is prepared for analysts & relevant stakeholders.
+
+
 ## Final Data Model
 
 ![Final Data Model](images/final_data_model.png)
 
 The Power BI model supports analysis across admissions, clinical activity, billing, insurance, pharmacy and staff operations.
 
-## How to use Data Model
-
-A detailed Data Model Usage Guide is prepared for analysts & relevant stakeholders.
 
 ## How to Run / Explore
 
