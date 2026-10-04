@@ -140,10 +140,6 @@ Future improvements would extend the model to support historical analysis and ad
 - LinkedIn: [rahuldev-v](https://www.linkedin.com/in/rahuldev-v)
 - Email: veludandirahul@gmail.com
 
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](https://www.mit.edu/~amini/LICENSE.md) for details.
-
 ## Detailed Documentation
 
 - **Power BI Model:** `power_bi/hospital_hmis_dimensional_model.pbix`
