@@ -1,6 +1,6 @@
 # Hospital HMIS Dimensional Data Modeling Project
 
-## One-Line Summary
+## Project Summary
 
 Designed and implemented a Kimball dimensional data model for a Hospital Management Information System using Power BI, Power Query and DAX to support admissions, clinical, financial, insurance, pharmacy and staff analytics.
 
