@@ -74,6 +74,10 @@ The original dataset is provided under the **MIT License**.
 
 The Power BI model supports analysis across admissions, clinical activity, billing, insurance, pharmacy and staff operations.
 
+## How to use Data Model
+
+A detailed Data Model Usage Guide is prepared for analysts & relevant stakeholders.
+
 ## How to Run / Explore
 
 1. Clone or download the repository.
