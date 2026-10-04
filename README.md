@@ -47,8 +47,8 @@ The original dataset is provided under the **MIT License**.
 
 - Profiled and classified 19 source tables by grain and business role.
 - Extracted & loaded source csv files into Power BI's Power Query.
-- Organized source and analytical Power Query layers.
-- Performed data quality checks & cleaning in analytical layer
+- Organized source and analytical Power Query layers (source files referenced in analytical layer). 
+- Performed data quality checks & cleaning in analytical layer.
 - Applied transformations required on analytical layer for dimensional modeling.
 
 ### Dimensional Modeling
