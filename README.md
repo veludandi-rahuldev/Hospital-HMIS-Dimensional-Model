@@ -70,7 +70,7 @@ The original dataset is provided under the **MIT License**.
 
 ### Data Model Usage Guide
 
-A detailed Data Model Usage Guide is prepared for analysts & relevant stakeholders.
+- A detailed Data Model Usage Guide is prepared for analysts & relevant stakeholders.
 
 
 ## Final Data Model
