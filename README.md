@@ -76,10 +76,10 @@ The original dataset is provided under the **MIT License**.
 - Validated key KPIs, filters, relationships, grain and double-counting.
 - Tested cross-fact isolation and admission snapshot calculations.
 
-### Data Model Usage Guide
+### Documentation
 
-- A detailed Data Model Usage Guide is prepared for analysts & relevant stakeholders.
-
+- A detailed report is prepared recording - end to end process.
+- A Data Model Usage Guide is prepared for analysts & relevant stakeholders.
 
 ## Final Data Model
 
