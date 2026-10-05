@@ -10,6 +10,14 @@ This project transforms 19 raw HMIS source tables into a hybrid dimensional mode
 
 The workflow covered data profiling, Power Query transformation, dimensional modeling, DAX measures, dashboard development, and independent validation against the original source data.
 
+## Why This Project?
+
+- A beautiful dashboard can still tell the wrong story if the data model behind it is poorly designed.
+- Incorrect relationships and wrong table grain can lead to double counting and incorrect KPIs.
+- Poor filter behaviour can produce inconsistent or misleading business insights.
+- This project was built to go beyond dashboard creation and focus on the data model powering the BI solution.
+- The goal was to build a structured dimensional model that makes Business Intelligence more accurate, consistent, and trustworthy.
+
 ## Project Workflow
 
 ![Project Workflow](workflow/workflow.png)
