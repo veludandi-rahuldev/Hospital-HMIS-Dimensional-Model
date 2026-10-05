@@ -84,8 +84,12 @@ The Power BI model supports analysis across admissions, clinical activity, billi
 
 1. Clone or download the repository.
 2. Open `power_bi/hospital_hmis_dimensional_model.pbix` in Power BI Desktop.
-3. Review the model relationships and standard DAX measures.
-4. Refer to the project report for the complete modeling decisions and validation process.
+3. Update the source file path in the downloaded PBIX file to the location of the repository's `data/raw/` folder.
+4. Refresh the model.
+5. Review the model relationships, standard DAX measures and report pages.
+6. Refer to the project report for the complete modeling decisions and validation process.
+
+> **Important:** The PBIX file cannot automatically know where the repository was downloaded on your computer. You must update the **file path** in the downloaded PBIX file before refreshing the model.
 
 ### Repository Structure
 
@@ -121,15 +125,15 @@ Key analytical areas include admissions, length of stay, billing, insurance cove
 
 ## Future Work
 
-Future improvements would extend the model to support historical analysis and additional operational use cases that are not fully represented in the current source data.
+Future improvements could extend the model for deeper historical and operational analysis:
 
-- **Historical bed occupancy and utilization:** Add historical bed-status or occupancy records to analyze utilization over time.
-- **Inventory movement history:** Capture stock receipts, issues and adjustments instead of only the current inventory state.
-- **Staff scheduling history:** Add assignment dates and historical staffing changes to support workforce analysis over time.
-- **Stronger insurance claim/policy linkage:** Establish a reliable relationship between patient policies, admissions and billing/claims.
-- **Prescription dates:** Add prescription dates to enable time-based medication analysis.
-- **Charge-level billing analysis:** Reintroduce billing-detail analysis if reliable reconciliation rules and business requirements are established.
-- **Slowly Changing Dimensions:** Introduce appropriate SCD techniques when historical attribute tracking or multiple source systems require them.
+- **Bed occupancy:** Add historical occupancy data for utilization analysis.
+- **Inventory history:** Capture stock receipts, issues and adjustments.
+- **Staff history:** Add assignment dates and staffing changes.
+- **Insurance linkage:** Strengthen policy, admission and billing/claim relationships.
+- **Prescription dates:** Enable time-based medication analysis.
+- **Charge-level billing:** Reintroduce billing details with reliable reconciliation rules.
+- **SCD:** Add Slowly Changing Dimensions when historical attribute tracking is required.
 
 ## Limitations
 
