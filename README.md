@@ -134,6 +134,7 @@ Future improvements could extend the model for deeper historical and operational
 - **Prescription dates:** Enable time-based medication analysis.
 - **Charge-level billing:** Reintroduce billing details with reliable reconciliation rules.
 - **SCD:** Add Slowly Changing Dimensions when historical attribute tracking is required.
+- **Row Level Securtiy (RLS):** Add RLS if required.
 
 ## Limitations
 
