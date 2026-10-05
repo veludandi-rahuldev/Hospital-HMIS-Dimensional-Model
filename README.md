@@ -145,6 +145,13 @@ Future improvements could extend the model for deeper historical and operational
 - Billing-detail values were not reconciled with billing totals and were therefore excluded from the analytical model.
 - Some source dates extend into January 2026 despite the stated 2020–2025 dataset period.
 
+## Detailed Documentation
+
+- **Power BI Model:** `power_bi/hospital_hmis_dimensional_model.pbix`
+- **DAX Measures:** `dax/standard_measures.md`
+- **Project Report:** `docs/hmis_dimensional_modeling_report.pdf`
+- **Data Model Usage Guide:** `docs/hmis_data_model_usage_guide.pdf`
+
 ## Author & Contact
 
 **Rahuldev Veludandi**
@@ -153,9 +160,3 @@ Future improvements could extend the model for deeper historical and operational
 - LinkedIn: [rahuldev-v](https://www.linkedin.com/in/rahuldev-v)
 - Email: veludandirahul@gmail.com
 
-## Detailed Documentation
-
-- **Power BI Model:** `power_bi/hospital_hmis_dimensional_model.pbix`
-- **DAX Measures:** `dax/standard_measures.md`
-- **Project Report:** `docs/hmis_dimensional_modeling_report.pdf`
-- **Data Model Usage Guide:** `docs/hmis_data_model_usage_guide.pdf`
