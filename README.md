@@ -160,6 +160,13 @@ Future improvements could extend the model for deeper historical and operational
 - **Project Report:** `docs/hmis_dimensional_modeling_report.pdf`
 - **Data Model Usage Guide:** `docs/hmis_data_model_usage_guide.pdf`
 
+## Dataset & Attribution
+
+- **Note:** Built by Rahuldev Veludandi as a personal portfolio project to practice data modeling and Power BI. Feel free to view
+  or explore the repo! Please do not re-upload or claim these files as your own.
+
+- The source dataset is provided under its respective license.
+
 ## Author & Contact
 
 **Rahuldev Veludandi**
